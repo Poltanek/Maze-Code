@@ -1,2 +1,2 @@
-# Maze Game
-Python Maze Game dedicated towards learning AI 
+# Maze Code
+Python Maze Code dedicated towards learning AI 
